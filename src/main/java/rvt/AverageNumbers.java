@@ -8,6 +8,13 @@ public class AverageNumbers {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Give the first number:");
+        
+
+        System.out.println("Give the second number:");
+        
+
+        System.out.println("Give the third number:");
+        
 
     }
 }
